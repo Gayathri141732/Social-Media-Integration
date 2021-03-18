@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gripProject</string>
+    <string name="heading">Social Media Integration</string>
+
+    <string name="facebook_app_id">2069551999851174</string>
+    <string name="fb_login_protocol_scheme">fb2069551999851174</string>
+
+    <string name="user_id">111111111111111</string>
+</resources>
